@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoprawaKolos", "PoprawaKolos\PoprawaKolos.csproj", "{149FE6BE-62E5-4723-81CF-A13825F2233B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{149FE6BE-62E5-4723-81CF-A13825F2233B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149FE6BE-62E5-4723-81CF-A13825F2233B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149FE6BE-62E5-4723-81CF-A13825F2233B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149FE6BE-62E5-4723-81CF-A13825F2233B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52DCBF15-73B0-4845-9CAD-124161A806B9}
+	EndGlobalSection
+EndGlobal
